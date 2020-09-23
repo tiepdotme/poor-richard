@@ -1,4 +1,4 @@
-baseURL = "https://skysumu.com/"
+baseURL = "https://tiep.tk/"
 languageCode = "en-us"
 title = "Spotlight PA"
 enableRobotsTXT = true
@@ -76,7 +76,7 @@ notAlternative = true
 
 [params]
     imgproxy = "/imgproxy/"
-    title = "Spotlight PA"
+    title = "Spotlight TIEP.TK"
     favicon = "/img/logos/circle-black-on-trans-920.png"
     touch-icon = "/img/logos/square-white-on-black-920.png"
     images = [
